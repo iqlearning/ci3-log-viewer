@@ -1,6 +1,6 @@
 # CodeIgniter 3 Log Viewer
 
-A Laravel-free adaptation of `opcodesio/log-viewer` package compatible with CodeIgniter 3 (PHP 7.4+).
+A CodeIgniter 3 adaptation of `opcodesio/log-viewer` package compatible with PHP 7.4+.
 
 ## Installation
 
