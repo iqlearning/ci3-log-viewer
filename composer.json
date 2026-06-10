@@ -1,0 +1,15 @@
+{
+    "name": "iqtool/ci3-log-viewer",
+    "description": "Log Viewer package adapted for CodeIgniter 3 (PHP 7.4+)",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4|^8.0",
+        "opcodesio/mail-parser": "^0.2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "IqTool\\Ci3LogViewer\\": "src/"
+        }
+    }
+}
